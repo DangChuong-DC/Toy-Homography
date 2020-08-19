@@ -5,7 +5,7 @@ This code is a assignment for Intelligence Integrated System class, April 2020
 This code is writen by jupyter notebook with keras and OpenCV:
 - Deep Image model:
 reimplemented from [DeTone D, Malisiewicz T, Rabinovich A. Deep image homography estimation[J]. arXiv preprint arXiv:1606.03798, 2016.]
-https://arxiv.org/abs/1606.03798
+https://arxiv.org/abs/1606.03798.\n
 You can get a pretrained model from here:https://drive.google.com/open?id=0B88aZDadyYr8TTBSY3JvYTVKVnc
 
 - And some conventional methods in OpenCV library
