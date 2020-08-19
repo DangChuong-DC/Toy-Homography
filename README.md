@@ -11,9 +11,9 @@ You can get a pretrained model from here:https://drive.google.com/open?id=0B88aZ
 - And some conventional methods in OpenCV library
 
 ## Dependencies
-OpenCV 3.4.2
-Keras
-TensorFlow
++ OpenCV 3.4.2
++ Keras
++ TensorFlow
 
 ## References
 * https://github.com/yishiliuhuasheng/deep_image_homography_estimation
